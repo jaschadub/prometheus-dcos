@@ -1,4 +1,4 @@
-FROM prom/prometheus:v2.2.1
+FROM prom/prometheus:v2.12.0
 MAINTAINER Lukas Loesche <lloesche@fedoraproject.org>
 EXPOSE 9093
 EXPOSE 9090
